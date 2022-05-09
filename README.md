@@ -19,5 +19,7 @@ Pour mettre en élément en *italique
 |Michel|Durand|
 |Georges|Dupont|
 
+Je m'appellle Michel
+
 Exercice git Vernon 09/05/2022
 
